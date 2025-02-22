@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/misis/Git/lab1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\MyExecutable.dir\\src\\main.cpp.obj -c C:\\misis\\Git\\lab1\\src\\main.cpp",
+  "file": "C:/misis/Git/lab1/src/main.cpp",
+  "output": "CMakeFiles/MyExecutable.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/misis/Git/lab1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\MyExecutable.dir\\src\\utils.cpp.obj -c C:\\misis\\Git\\lab1\\src\\utils.cpp",
+  "file": "C:/misis/Git/lab1/src/utils.cpp",
+  "output": "CMakeFiles/MyExecutable.dir/src/utils.cpp.obj"
+}
+]
